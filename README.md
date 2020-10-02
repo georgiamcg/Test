@@ -1,2 +1,2 @@
 # Test
-test repository
+test repository to see how to use github
